@@ -3,8 +3,7 @@
 
 Description
 --
-Todoey is a todos Application. Anyone can Shedule his/her tasks . he/she can search the task and also sort the task whether the task is completed or Not.
-he/she can Assign any task or can edit or change or can update or can delete any task . this application is fully followed by 
+Todoey is a todos Application using Asp.net mvc 5 approach. Anyone can Shedule his/her tasks . he/she can search the task and also sort the task whether the task is completed or Not. he/she can Assign any task or can edit or change or can update or can delete any task . this application is fully followed by 
 CRUD operation.
 <br>
 
